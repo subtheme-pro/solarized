@@ -1,15 +1,10 @@
-# Monokai Pro
-
-The unofficial Monokai Pro theme, adapted by Thematic. This repository includes the default theme and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: [https://monokai.pro](https://monokai.pro).
+# Solarized
 
 Supported apps:
-- [JetBrains](https://github.com/thematic-dev/monokai-pro/tree/master/apps/jetbrains)
+- [JetBrains](https://github.com/subtheme-pro/solarized/tree/master/apps/jetbrains)
 
-To build the theme, use [Thematic](https://github.com/thematic-dev/thematic):
+To build the, use [subtheme](https://github.com/subtheme-pro/subtheme):
 
 ```shell script
-$ python thematic.py build .
+$ python subtheme.py build <path>
 ```
-
-To learn more, read the Thematic [docs](https://thematic.dev/documentation.html). (Note: Thematic is still a work in progress.)
-

@@ -1,21 +1,10 @@
-# Monokai Pro for JetBrains
+# Solarized for JetBrains
 
-#### Monokai Pro:
+#### Solarized Dark:
 
-![Monokai Pro](screenshots/monokai-pro.png)
+![Solarized Dark](screenshots/solarized-dark.png)
 
-#### Filter Machine:
+#### Solarized Light:
 
-![Filter Machine](screenshots/monokai-pro-machine.png)
+![Solarized Light](screenshots/solarized-light.png)
 
-#### Filter Octagon:
-
-![Filter Octagon](screenshots/monokai-pro-octagon.png)
-
-#### Filter Ristretto:
-
-![Filter Ristretto](screenshots/monokai-pro-ristretto.png)
-
-#### Filter Spectrum:
-
-![Filter Spectrum](screenshots/monokai-pro-spectrum.png)
