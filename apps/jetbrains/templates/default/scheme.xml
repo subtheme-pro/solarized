@@ -16,7 +16,7 @@
         <option name="CARET_COLOR" value="{{colors.base0}}" />
         <option name="CARET_ROW_COLOR" value="{{colors.base02}}" />
         <option name="CONSOLE_BACKGROUND_KEY" value="{{colors.base03}}" />
-        <option name="DELETED_LINES_COLOR" value="{{colors.red}}" />
+        <option name="DELETED_LINES_COLOR" value="{{colors.cyan}}" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
         <option name="DOCUMENTATION_COLOR" value="{{colors.base3}}" />
@@ -25,12 +25,12 @@
         <option name="FILESTATUS_DELETED" value="{{colors.base5}}" />
         <option name="FILESTATUS_HIJACKED" value="{{colors.yellow}}" />
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="{{colors.base5}}" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNOcyan" value="ab7967" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="{{colors.orange}}" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="{{colors.orange}}" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="{{colors.orange}}" />
         <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="{{colors.green}}" />
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNOcyan" value="ab7967" />
         <option name="FILESTATUS_MERGED" value="{{colors.magenta}}" />
         <option name="FILESTATUS_MODIFIED" value="{{colors.blue}}" />
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="{{colors.blue}}" />
@@ -44,11 +44,11 @@
         <option name="GUTTER_BACKGROUND" value="{{colors.base03}}" />
         <option name="INDENT_GUIDE" value="{{colors.base02}}" />
         <option name="INFORMATION_HINT" value="{{colors.base3}}" />
-        <option name="LINE_NUMBERS_COLOR" value="{{colors.base4}}" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+        <option name="LINE_NUMBERS_COLOR" value="{{colors.base0}}" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="{{colors.base0}}" />
         <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
         <option name="MODIFIED_LINES_COLOR" value="{{colors.orange}}" />
-        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+        <option name="MT_IGNORE.PROJECT_VIEW.IGNOcyan" value="ab7967" />
         <option name="MT_SUPPRESSED" value="eeffff" />
         <option name="NOTIFICATION_BACKGROUND" value="19181a" />
         <option name="NOT_CHANGED" value="939393" />
@@ -62,29 +62,29 @@
         <option name="SEPARATOR_ABOVE_COLOR" value="{{colors.base02}}" />
         <option name="SEPARATOR_BELOW_COLOR" value="{{colors.base02}}" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.Transparent.trackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.hoverTrackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.Mac.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.trackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.Transparent.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Transparent.hoverTrackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.Transparent.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Transparent.trackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.hoverTrackColor" value="{{colors.base03}}" />
-        <option name="ScrollBar.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.trackColor" value="{{colors.base03}}" />
-        <option name="TAB_UNDERLINE" value="{{colors.base2}}" />
-        <option name="TAB_UNDERLINE_INACTIVE" value="{{colors.base2}}" />
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.Transparent.trackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.hoverTrackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.thumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Mac.trackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Transparent.hoverTrackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Transparent.thumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.Transparent.trackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.hoverThumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.hoverTrackColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.thumbColor" value="{{colors.base0}}" />
+        <option name="ScrollBar.trackColor" value="{{colors.base0}}" />
+        <option name="TAB_UNDERLINE" value="{{colors.base0}}" />
+        <option name="TAB_UNDERLINE_INACTIVE" value="{{colors.base0}}" />
         <option name="TEARLINE_COLOR" value="{{colors.base02}}" />
         <option name="TOOLTIP" value="{{colors.base3}}" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="{{colors.base5}}" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="{{colors.red}}" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="{{colors.cyan}}" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="f59762" />
         <option name="VISUAL_INDENT_GUIDE" value="{{colors.base3}}" />
@@ -178,7 +178,7 @@
                 <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
-        <option name="BREADCRUMBS_HOVERED">
+        <option name="BREADCRUMBS_HOVEcyan">
             <value>
                 <option name="FOREGROUND" value="{{base0}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
@@ -223,7 +223,7 @@
                 <option name="FOREGROUND" value="{{colors.base5}}" />
             </value>
         </option>
-        <option name="CODE_VISION_HOVERED">
+        <option name="CODE_VISION_HOVEcyan">
             <value>
                 <option name="FOREGROUND" value="{{colors.yellow}}" />
             </value>
@@ -247,22 +247,22 @@
         </option>
         <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.orange}}" />
+                <option name="FOREGROUND" value="{{colors.blue}}" />
             </value>
         </option>
         <option name="CONSOLE_BLUE_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.orange}}" />
+                <option name="FOREGROUND" value="{{colors.blue}}" />
             </value>
         </option>
         <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.blue}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="CONSOLE_CYAN_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.blue}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="CONSOLE_ERROR_OUTPUT">
@@ -272,7 +272,7 @@
         </option>
         <option name="CONSOLE_GRAY_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base6}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -308,14 +308,14 @@
         <option name="CONSOLE_RANGE_TO_EXECUTE">
             <value />
         </option>
-        <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+        <option name="CONSOLE_cyan_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
-        <option name="CONSOLE_RED_OUTPUT">
+        <option name="CONSOLE_cyan_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -408,7 +408,7 @@
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -565,7 +565,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -597,7 +597,7 @@
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -611,7 +611,7 @@
                 <option name="FOREGROUND" value="{{colors.base6}}" />
             </value>
         </option>
-        <option name="DEFAULT_PREDEFINED_SYMBOL">
+        <option name="DEFAULT_PcyanEFINED_SYMBOL">
             <value>
                 <option name="FOREGROUND" value="{{colors.green}}" />
                 <option name="FONT_TYPE" value="2" />
@@ -656,7 +656,7 @@
         </option>
         <option name="DEFAULT_TAG">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -823,7 +823,7 @@
         </option>
         <option name="GO_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -894,7 +894,7 @@
         </option>
         <option name="HAML_RUBY_START">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -905,7 +905,7 @@
         </option>
         <option name="HAML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="HOCON_BOOLEAN">
@@ -941,7 +941,7 @@
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="HTTP_HEADER_FIELD_VALUE">
@@ -1001,7 +1001,7 @@
         </option>
         <option name="IGNORE.NEGATION">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1185,7 +1185,7 @@
         </option>
         <option name="KOTLIN_ARROW">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="KOTLIN_BACKING_FIELD_VARIABLE">
@@ -1193,12 +1193,12 @@
         </option>
         <option name="KOTLIN_COLON">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="KOTLIN_DOUBLE_COLON">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1214,7 +1214,7 @@
         </option>
         <option name="KOTLIN_EXCLEXCL">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
@@ -1583,7 +1583,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.ABBREVIATION">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_EXPANDED_TEXT">
@@ -1622,7 +1622,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.BOLD_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
@@ -1671,7 +1671,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1754,7 +1754,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.ITALIC_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_CODE_TEXT">
@@ -1779,13 +1779,13 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.JEKYLL_TAG_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.JEKYLL_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1813,7 +1813,7 @@
                 <option name="FOREGROUND" value="{{colors.blue}}" />
             </value>
         </option>
-        <option name="MARKDOWN_NAVIGATOR.ORDERED_LIST">
+        <option name="MARKDOWN_NAVIGATOR.ORDEcyan_LIST">
             <value>
                 <option name="FOREGROUND" value="{{colors.blue}}" />
                 <option name="FONT_TYPE" value="1" />
@@ -1868,12 +1868,12 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.REFERENCE_IMAGE_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.REFERENCE_LINK_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.REFERENCE_TEXT">
@@ -1916,7 +1916,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT">
@@ -1987,7 +1987,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT">
@@ -1999,7 +1999,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE">
@@ -2478,7 +2478,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TOC">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2502,7 +2502,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.UNDERLINE_MARKER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.VERBATIM">
@@ -2565,7 +2565,7 @@
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="{{colors.base5}}" />
-                <option name="EFFECT_COLOR" value="{{colors.red}}" />
+                <option name="EFFECT_COLOR" value="{{colors.cyan}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2580,7 +2580,7 @@
                 <option name="FOREGROUND" value="c4b3a3" />
             </value>
         </option>
-        <option name="MY_BORDERED">
+        <option name="MY_BORDEcyan">
             <value>
                 <option name="FOREGROUND" value="{{colors.base6}}" />
             </value>
@@ -2646,7 +2646,7 @@
         </option>
         <option name="OC.OVERLOADED_OPERATOR">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2734,9 +2734,9 @@
                 <option name="FOREGROUND" value="{{colors.green}}" />
             </value>
         </option>
-        <option name="PHP_HEREDOC_ID">
+        <option name="PHP_HEcyanOC_ID">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="PHP_INSTANCE_FIELD">
@@ -2757,7 +2757,7 @@
         </option>
         <option name="PHP_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2772,7 +2772,7 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="PHP_PREDEFINED SYMBOL">
+        <option name="PHP_PcyanEFINED SYMBOL">
             <value>
                 <option name="FOREGROUND" value="{{colors.green}}" />
                 <option name="FONT_TYPE" value="2" />
@@ -2830,7 +2830,7 @@
         </option>
         <option name="PY.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2840,13 +2840,13 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="PY.PREDEFINED_DEFINITION">
+        <option name="PY.PcyanEFINED_DEFINITION">
             <value>
                 <option name="FOREGROUND" value="{{colors.green}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="PY.PREDEFINED_USAGE">
+        <option name="PY.PcyanEFINED_USAGE">
             <value>
                 <option name="FOREGROUND" value="{{colors.green}}" />
                 <option name="FONT_TYPE" value="2" />
@@ -2892,7 +2892,7 @@
         </option>
         <option name="RDOC_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3009,19 +3009,19 @@
         </option>
         <option name="RUBY_HASH_ASSOC">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
-        <option name="RUBY_HEREDOC_CONTENT">
+        <option name="RUBY_HEcyanOC_CONTENT">
             <value>
                 <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="BACKGROUND" value="{{colors.base03}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
-        <option name="RUBY_HEREDOC_ID">
+        <option name="RUBY_HEcyanOC_ID">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -3120,7 +3120,7 @@
         </option>
         <option name="ReSharper.ASP_NET_DIRECTIVE_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3138,13 +3138,13 @@
         </option>
         <option name="ReSharper.ASP_NET_MVC_AREA">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_MVC_CONTROLLER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -3189,7 +3189,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
@@ -3200,7 +3200,7 @@
         </option>
         <option name="ReSharper.ASP_NET_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="ReSharper.BRACE_OUTLINE">
@@ -3224,7 +3224,7 @@
         </option>
         <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -3413,7 +3413,7 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
-        <option name="Scala Predefined types">
+        <option name="Scala Pcyanefined types">
             <value>
                 <option name="FOREGROUND" value="{{colors.blue}}" />
                 <option name="FONT_TYPE" value="2" />
@@ -3433,12 +3433,12 @@
         </option>
         <option name="TAB_SELECTED">
             <value>
-                <option name="FOREGROUND" value="{{colors.base2}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="TAB_SELECTED_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base2}}" />
+                <option name="FOREGROUND" value="{{colors.base1}}" />
             </value>
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -3556,7 +3556,7 @@
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="{{colors.red}}" />
+                <option name="EFFECT_COLOR" value="{{colors.cyan}}" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -3567,7 +3567,7 @@
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.red}}" />
+                <option name="FOREGROUND" value="{{colors.cyan}}" />
             </value>
         </option>
         <option name="XPATH.KEYWORD">

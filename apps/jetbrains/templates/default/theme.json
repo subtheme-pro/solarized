@@ -1,6 +1,6 @@
 {
   "name": "{{name}}",
-  "dark": true,
+  "dark": {{dark}},
   "author": "Thematic",
   "editorScheme": "/themes/{{filename}}.xml",
   "ui": {
@@ -561,7 +561,7 @@
     "ToolWindow": {
       "Button": {
         "hoverBackground": "{{colors.base02}}",
-        "selectedForeground": "{{colors.base2}}",
+        "selectedForeground": "{{colors.base0}}",
         "selectedBackground": "{{colors.base02}}"
       },
       "Header": {
