@@ -1,24 +1,11 @@
 <idea-plugin>
-  <id>monokai-pro</id>
-  <name>Monokai Pro Theme</name>
-  <version>0.8</version>
-  <vendor url="https://thematic.dev">Thematic</vendor>
+  <id>solarized</id>
+  <name>Solarized</name>
+  <version>0.1</version>
+  <vendor url="https://subtheme.pro">Subtheme</vendor>
 
   <description>
     <![CDATA[
-      The unofficial Monokai Pro theme, adapted for JetBrains by <a href="https://thematic.dev">Thematic</a>. This plugin includes the default theme and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a>.
-      <br/><br/>
-      Contribute with GitHub: <a href="https://github.com/thematic-dev/monokai-pro">https://github.com/thematic-dev/monokai-pro</a>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-small.png" border="0" width="320">
-      <br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-machine-small.png" border="0" width="320">
-      <br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-octagon-small.png" border="0" width="320">
-      <br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-ristretto-small.png" border="0" width="320">
-      <br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-spectrum-small.png" border="0" width="320">
     ]]>
   </description>
 
@@ -27,10 +14,7 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="96c210a3-cc3b-47c2-ba0f-6de6f50c18a3" path="/monokai-pro-machine.theme.json"/>
-    <themeProvider id="342c21d9-7947-4ea7-8291-d4fd4e96fa36" path="/monokai-pro-octagon.theme.json"/>
-    <themeProvider id="76cc8066-d21c-4e4c-8583-1b3f22e90e8f" path="/monokai-pro-ristretto.theme.json"/>
-    <themeProvider id="ddd7798e-8bd6-4aa2-8345-a08190090321" path="/monokai-pro-spectrum.theme.json"/>
-    <themeProvider id="b8abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/monokai-pro.theme.json"/>
+    <themeProvider id="d9304237-1a55-41ed-beb0-e86bd75439fa" path="/solarized-light.theme.json"/>
+    <themeProvider id="0d30d2d3-c1a4-4620-bab0-3ea13421f0e8" path="/solarized-dark.theme.json"/>
   </extensions>
 </idea-plugin>
