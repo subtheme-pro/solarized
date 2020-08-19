@@ -1,0 +1,19 @@
+name: Solarized Light
+template: default
+colors:
+  base3: x002b36
+  base2: x073642
+  base1: x586e75
+  base0: x657b83
+  base00: x839496
+  base01: x93a1a1
+  base02: xeee8d5
+  base03: xfdf6e3
+  yellow: xb58900
+  orange: xcb4b16
+  red: xdc322f
+  magenta: xd33682
+  violet: x6c71c4
+  blue: x268bd2
+  cyan: x2aa198
+  green: x859900

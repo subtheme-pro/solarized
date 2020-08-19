@@ -13,9 +13,9 @@
     <colors>
         <option name="ADDED_LINES_COLOR" value="{{colors.green}}" />
         <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-        <option name="CARET_COLOR" value="{{colors.base8}}" />
-        <option name="CARET_ROW_COLOR" value="{{colors.base8x0c}}" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="{{colors.base2}}" />
+        <option name="CARET_COLOR" value="{{colors.base0}}" />
+        <option name="CARET_ROW_COLOR" value="{{colors.base02}}" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="{{colors.base03}}" />
         <option name="DELETED_LINES_COLOR" value="{{colors.red}}" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -31,18 +31,18 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="{{colors.orange}}" />
         <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="{{colors.green}}" />
         <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-        <option name="FILESTATUS_MERGED" value="{{colors.purple}}" />
+        <option name="FILESTATUS_MERGED" value="{{colors.magenta}}" />
         <option name="FILESTATUS_MODIFIED" value="{{colors.blue}}" />
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="{{colors.blue}}" />
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="{{colors.blue}}" />
         <option name="FILESTATUS_SUPPRESSED" value="{{colors.base5}}" />
-        <option name="FILESTATUS_SWITCHED" value="{{colors.purple}}" />
+        <option name="FILESTATUS_SWITCHED" value="{{colors.magenta}}" />
         <option name="FILESTATUS_UNKNOWN" value="f59762" />
         <option name="FILESTATUS_addedOutside" value="{{colors.green}}" />
         <option name="FILESTATUS_changelistConflict" value="f65f87" />
         <option name="FILESTATUS_modifiedOutside" value="{{colors.blue}}" />
-        <option name="GUTTER_BACKGROUND" value="{{colors.base2}}" />
-        <option name="INDENT_GUIDE" value="{{colors.base8x0c}}" />
+        <option name="GUTTER_BACKGROUND" value="{{colors.base03}}" />
+        <option name="INDENT_GUIDE" value="{{colors.base02}}" />
         <option name="INFORMATION_HINT" value="{{colors.base3}}" />
         <option name="LINE_NUMBERS_COLOR" value="{{colors.base4}}" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
@@ -57,30 +57,30 @@
         <option name="RIGHT_MARGIN_COLOR" value="{{colors.base3}}" />
         <option name="SELECTED_INDENT_GUIDE" value="{{colors.blue}}" />
         <option name="SELECTED_TEARLINE_COLOR" value="{{colors.yellow}}" />
-        <option name="SELECTION_BACKGROUND" value="{{colors.base3}}" />
-        <option name="SELECTION_FOREGROUND" value="ffffff" />
-        <option name="SEPARATOR_ABOVE_COLOR" value="{{colors.base8x0c}}" />
-        <option name="SEPARATOR_BELOW_COLOR" value="{{colors.base8x0c}}" />
+        <option name="SELECTION_BACKGROUND" value="{{colors.base01}}" />
+        <option name="SELECTION_FOREGROUND" value="{{colors.base2}}" />
+        <option name="SEPARATOR_ABOVE_COLOR" value="{{colors.base02}}" />
+        <option name="SEPARATOR_BELOW_COLOR" value="{{colors.base02}}" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="{{colors.base3}}" />
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.Mac.Transparent.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.Transparent.trackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Mac.Transparent.trackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.hoverTrackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Mac.hoverTrackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.Mac.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Mac.trackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Mac.trackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.Transparent.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Transparent.hoverTrackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Transparent.hoverTrackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.Transparent.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.Transparent.trackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.Transparent.trackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.hoverThumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.hoverTrackColor" value="{{colors.base2}}" />
+        <option name="ScrollBar.hoverTrackColor" value="{{colors.base03}}" />
         <option name="ScrollBar.thumbColor" value="{{colors.base3}}" />
-        <option name="ScrollBar.trackColor" value="{{colors.base2}}" />
-        <option name="TAB_UNDERLINE" value="{{colors.yellow}}" />
-        <option name="TAB_UNDERLINE_INACTIVE" value="{{colors.yellow}}" />
-        <option name="TEARLINE_COLOR" value="{{colors.base8x0c}}" />
+        <option name="ScrollBar.trackColor" value="{{colors.base03}}" />
+        <option name="TAB_UNDERLINE" value="{{colors.base2}}" />
+        <option name="TAB_UNDERLINE_INACTIVE" value="{{colors.base2}}" />
+        <option name="TEARLINE_COLOR" value="{{colors.base02}}" />
         <option name="TOOLTIP" value="{{colors.base3}}" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="{{colors.base5}}" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
@@ -168,26 +168,26 @@
         </option>
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="939393" />
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="ffffff" />
+                <option name="FOREGROUND" value="{{base0}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
                 <option name="FOREGROUND" value="{{colors.base4}}" />
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -215,7 +215,7 @@
         </option>
         <option name="CODE_LENS_BORDER_COLOR">
             <value>
-                <option name="EFFECT_COLOR" value="{{colors.base8}}" />
+                <option name="EFFECT_COLOR" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CODE_VISION_DEFAULT">
@@ -287,22 +287,22 @@
         </option>
         <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="CONSOLE_MAGENTA_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CONSOLE_OUTPUT">
             <value>
-                <option name="BACKGROUND" value="{{colors.base8}}" />
+                <option name="BACKGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -320,7 +320,7 @@
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CONSOLE_USER_INPUT">
@@ -331,7 +331,7 @@
         </option>
         <option name="CONSOLE_WHITE_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -364,7 +364,7 @@
         </option>
         <option name="CSS.COLOR">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="CSS.FUNCTION">
@@ -380,7 +380,7 @@
         </option>
         <option name="CSS.PROPERTY_NAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="CSS.PROPERTY_VALUE">
@@ -495,7 +495,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="3" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
@@ -518,7 +518,7 @@
         </option>
         <option name="DEFAULT_ENTITY">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
@@ -533,17 +533,17 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
@@ -571,7 +571,7 @@
         </option>
         <option name="DEFAULT_LABEL">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -582,7 +582,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -592,7 +592,7 @@
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
@@ -619,8 +619,8 @@
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
-                <option name="EFFECT_COLOR" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
+                <option name="EFFECT_COLOR" value="{{colors.base0}}" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -639,7 +639,7 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -738,7 +738,7 @@
         </option>
         <option name="ELIXIR_BIT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="ENUM_CONST">
@@ -766,8 +766,8 @@
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -802,7 +802,7 @@
         </option>
         <option name="GO_BUILTIN_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="GO_EXPORTED_FUNCTION">
@@ -856,7 +856,7 @@
         </option>
         <option name="GO_PACKAGE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="GO_PACKAGE_EXPORTED_CONSTANT">
@@ -910,13 +910,13 @@
         </option>
         <option name="HOCON_BOOLEAN">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="HOCON_NULL">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1023,7 +1023,7 @@
         </option>
         <option name="IGNORE.VALUE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1040,8 +1040,8 @@
         </option>
         <option name="INFO_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
-                <option name="ERROR_STRIPE_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
+                <option name="ERROR_STRIPE_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -1050,19 +1050,19 @@
         </option>
         <option name="INLINE_PARAMETER_HINT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="BACKGROUND" value="{{colors.base1}}" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_CURRENT">
             <value>
-                <option name="FOREGROUND" value="ffffff" />
+                <option name="FOREGROUND" value="{{base0}}" />
                 <option name="BACKGROUND" value="e91e63" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="BACKGROUND" value="{{colors.base4}}" />
             </value>
         </option>
@@ -1135,7 +1135,7 @@
         </option>
         <option name="JS.LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="JS.MODULE_NAME">
@@ -1146,7 +1146,7 @@
         </option>
         <option name="JS.NULL_UNDEFINED">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="JS.REGEXP">
@@ -1168,7 +1168,7 @@
         </option>
         <option name="JSON.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1209,7 +1209,7 @@
         </option>
         <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="KOTLIN_EXCLEXCL">
@@ -1291,7 +1291,7 @@
         </option>
         <option name="LOG_DEBUG_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="LOG_ERROR_OUTPUT">
@@ -1316,7 +1316,7 @@
         </option>
         <option name="LUA_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="LUA_PARAMETER">
@@ -1343,7 +1343,7 @@
         </option>
         <option name="List/map to object conversion">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MACRONAME">
@@ -1368,27 +1368,27 @@
         </option>
         <option name="MARKDOWN.HEADER_LEVEL_1">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN.HEADER_LEVEL_2">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN.HEADER_LEVEL_3">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN.HEADER_LEVEL_4">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN.HEADER_LEVEL_5">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN.IMAGE">
@@ -1418,7 +1418,7 @@
         </option>
         <option name="MARKDOWN.TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="MARKDOWN_AUTO_LINK">
@@ -1453,7 +1453,7 @@
         </option>
         <option name="MARKDOWN_CODE_BLOCK">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN_CODE_FENCE">
@@ -1461,7 +1461,7 @@
         </option>
         <option name="MARKDOWN_CODE_SPAN">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1566,7 +1566,7 @@
         </option>
         <option name="MARKDOWN_LINK_TITLE">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="MARKDOWN_LIST_MARKER">
@@ -1588,7 +1588,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_EXPANDED_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1616,7 +1616,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.BOLD">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1627,7 +1627,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="5" />
@@ -1748,7 +1748,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.ITALIC">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1759,7 +1759,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_CODE_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
                 <option name="EFFECT_TYPE" value="5" />
@@ -1909,8 +1909,8 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1923,7 +1923,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1932,7 +1932,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1940,7 +1940,7 @@
             <value>
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1949,15 +1949,15 @@
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_CODE_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1965,7 +1965,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -1974,14 +1974,14 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -1992,8 +1992,8 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="4" />
             </value>
         </option>
@@ -2023,7 +2023,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
@@ -2037,16 +2037,16 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2055,7 +2055,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2064,7 +2064,7 @@
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2073,7 +2073,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2084,7 +2084,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
@@ -2098,16 +2098,16 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2116,7 +2116,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2125,7 +2125,7 @@
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2134,7 +2134,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2143,7 +2143,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2155,14 +2155,14 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2170,7 +2170,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2178,7 +2178,7 @@
             <value>
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2186,7 +2186,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2195,7 +2195,7 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2207,14 +2207,14 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2222,7 +2222,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2230,7 +2230,7 @@
             <value>
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2238,13 +2238,13 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
@@ -2258,16 +2258,16 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2276,7 +2276,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2285,7 +2285,7 @@
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2294,13 +2294,13 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
@@ -2314,16 +2314,16 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2332,7 +2332,7 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2341,7 +2341,7 @@
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2350,13 +2350,13 @@
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="BACKGROUND" value="{{colors.base3}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2368,14 +2368,14 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2383,7 +2383,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2391,7 +2391,7 @@
             <value>
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2399,13 +2399,13 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2417,14 +2417,14 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ITALIC_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2432,7 +2432,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="1" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2440,7 +2440,7 @@
             <value>
                 <option name="FOREGROUND" value="5789dd" />
                 <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2448,7 +2448,7 @@
             <value>
                 <option name="FOREGROUND" value="7867e7" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
@@ -2495,8 +2495,8 @@
         </option>
         <option name="MARKDOWN_NAVIGATOR.UNDERLINE">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -2629,12 +2629,12 @@
         </option>
         <option name="OC.IVAR">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="OC.MACRONAME">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2652,12 +2652,12 @@
         </option>
         <option name="OC.PROPERTY">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="OC.PROPERTY_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -2675,7 +2675,7 @@
         </option>
         <option name="OC.STRUCT_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="OC.STRUCT_LIKE">
@@ -2741,7 +2741,7 @@
         </option>
         <option name="PHP_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="PHP_INSTANCE_METHOD">
@@ -2763,7 +2763,7 @@
         </option>
         <option name="PHP_NUMBER">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="PHP_PARAMETER">
@@ -2785,7 +2785,7 @@
         </option>
         <option name="PHP_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2803,12 +2803,12 @@
         </option>
         <option name="PHP_VAR">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="PROPERTIES.KEY">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2887,7 +2887,7 @@
         </option>
         <option name="RDOC_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="RDOC_KEYWORD">
@@ -2905,17 +2905,17 @@
         </option>
         <option name="REST.FIXED">
             <value>
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
         <option name="REST.INLINE">
             <value>
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
         <option name="REST.INTERPRETED">
             <value>
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
             </value>
         </option>
         <option name="RHTML_EXPRESSION_END_ID">
@@ -2993,7 +2993,7 @@
         </option>
         <option name="RUBY_CVAR">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -3004,7 +3004,7 @@
         </option>
         <option name="RUBY_GVAR">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="RUBY_HASH_ASSOC">
@@ -3014,8 +3014,8 @@
         </option>
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -3033,7 +3033,7 @@
         </option>
         <option name="RUBY_IVAR">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="RUBY_LINE_CONTINUATION">
@@ -3043,7 +3043,7 @@
         </option>
         <option name="RUBY_LOCAL_VAR_ID">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="RUBY_METHOD_NAME">
@@ -3059,7 +3059,7 @@
         </option>
         <option name="RUBY_NUMBER">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="RUBY_PARAMDEF_CALL">
@@ -3088,7 +3088,7 @@
         </option>
         <option name="RUBY_SYMBOL">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="RUBY_WORDS">
@@ -3126,7 +3126,7 @@
         </option>
         <option name="ReSharper.ASP_NET_ENTITY_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_MVC_ACTION">
@@ -3184,7 +3184,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_ENTITY_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_TAG_NAME">
@@ -3241,7 +3241,7 @@
         </option>
         <option name="ReSharper.EVENT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -3269,7 +3269,7 @@
         </option>
         <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
             </value>
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
@@ -3400,7 +3400,7 @@
         </option>
         <option name="Scala Immutable Collection">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
                 <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
@@ -3409,7 +3409,7 @@
             <value>
                 <option name="FOREGROUND" value="{{colors.green}}" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_COLOR" value="{{colors.purple}}" />
+                <option name="EFFECT_COLOR" value="{{colors.magenta}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -3433,23 +3433,23 @@
         </option>
         <option name="TAB_SELECTED">
             <value>
-                <option name="FOREGROUND" value="{{colors.yellow}}" />
+                <option name="FOREGROUND" value="{{colors.base2}}" />
             </value>
         </option>
         <option name="TAB_SELECTED_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="{{colors.base5}}" />
+                <option name="FOREGROUND" value="{{colors.base2}}" />
             </value>
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="{{colors.purple}}" />
+                <option name="FOREGROUND" value="{{colors.magenta}}" />
             </value>
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="{{colors.base8}}" />
-                <option name="BACKGROUND" value="{{colors.base2}}" />
+                <option name="FOREGROUND" value="{{colors.base0}}" />
+                <option name="BACKGROUND" value="{{colors.base03}}" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -3533,7 +3533,7 @@
         </option>
         <option name="VELOCITY_SCRIPTING_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="{{colors.base8x0c}}" />
+                <option name="BACKGROUND" value="{{colors.base02}}" />
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
