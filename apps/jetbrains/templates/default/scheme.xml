@@ -19,7 +19,7 @@
         <option name="DELETED_LINES_COLOR" value="{{colors.cyan}}" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-        <option name="DOCUMENTATION_COLOR" value="{{colors.base3}}" />
+        <option name="DOCUMENTATION_COLOR" value="{{colors.base02}}" />
         <option name="FILESTATUS_ADDED" value="{{colors.green}}" />
         <option name="FILESTATUS_COPIED" value="{{colors.green}}" />
         <option name="FILESTATUS_DELETED" value="{{colors.base5}}" />
@@ -43,7 +43,7 @@
         <option name="FILESTATUS_modifiedOutside" value="{{colors.blue}}" />
         <option name="GUTTER_BACKGROUND" value="{{colors.base03}}" />
         <option name="INDENT_GUIDE" value="{{colors.base02}}" />
-        <option name="INFORMATION_HINT" value="{{colors.base3}}" />
+        <option name="INFORMATION_HINT" value="{{colors.base02}}" />
         <option name="LINE_NUMBERS_COLOR" value="{{colors.base0}}" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="{{colors.base0}}" />
         <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
@@ -52,9 +52,9 @@
         <option name="MT_SUPPRESSED" value="eeffff" />
         <option name="NOTIFICATION_BACKGROUND" value="19181a" />
         <option name="NOT_CHANGED" value="939393" />
-        <option name="QUESTION_HINT" value="{{colors.base3}}" />
+        <option name="QUESTION_HINT" value="{{colors.base02}}" />
         <option name="RECENT_LOCATIONS_SELECTION" value="{{colors.base1}}" />
-        <option name="RIGHT_MARGIN_COLOR" value="{{colors.base3}}" />
+        <option name="RIGHT_MARGIN_COLOR" value="{{colors.base02}}" />
         <option name="SELECTED_INDENT_GUIDE" value="{{colors.blue}}" />
         <option name="SELECTED_TEARLINE_COLOR" value="{{colors.yellow}}" />
         <option name="SELECTION_BACKGROUND" value="{{colors.base01}}" />
@@ -81,7 +81,7 @@
         <option name="TAB_UNDERLINE" value="{{colors.base0}}" />
         <option name="TAB_UNDERLINE_INACTIVE" value="{{colors.base0}}" />
         <option name="TEARLINE_COLOR" value="{{colors.base02}}" />
-        <option name="TOOLTIP" value="{{colors.base3}}" />
+        <option name="TOOLTIP" value="{{colors.base01}}" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="{{colors.base5}}" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="{{colors.cyan}}" />
@@ -169,19 +169,19 @@
         <option name="BREADCRUMBS_CURRENT">
             <value>
                 <option name="FOREGROUND" value="{{colors.base0}}" />
-                <option name="BACKGROUND" value="{{colors.base3}}" />
+                <option name="BACKGROUND" value="{{colors.base02}}" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="939393" />
-                <option name="BACKGROUND" value="{{colors.base03}}" />
+                <option name="BACKGROUND" value="{{colors.base02}}" />
             </value>
         </option>
-        <option name="BREADCRUMBS_HOVEcyan">
+        <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="{{base0}}" />
-                <option name="BACKGROUND" value="{{colors.base3}}" />
+                <option name="FOREGROUND" value="{{base1}}" />
+                <option name="BACKGROUND" value="{{colors.base01}}" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -1051,19 +1051,19 @@
         <option name="INLINE_PARAMETER_HINT">
             <value>
                 <option name="FOREGROUND" value="{{colors.base0}}" />
-                <option name="BACKGROUND" value="{{colors.base1}}" />
+                <option name="BACKGROUND" value="{{colors.base01}}" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_CURRENT">
             <value>
                 <option name="FOREGROUND" value="{{base0}}" />
-                <option name="BACKGROUND" value="e91e63" />
+                <option name="BACKGROUND" value="{{colors.base01}}" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
                 <option name="FOREGROUND" value="{{colors.base0}}" />
-                <option name="BACKGROUND" value="{{colors.base4}}" />
+                <option name="BACKGROUND" value="{{colors.base01}}" />
             </value>
         </option>
         <option name="IVAR">
@@ -3456,7 +3456,7 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="{{colors.base3}}" />
-                <option name="BACKGROUND" value="f8e71c" />
+                <option name="BACKGROUND" value="{{colors.base01}}" />
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">

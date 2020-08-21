@@ -2,10 +2,17 @@
   <id>solarized</id>
   <name>Solarized</name>
   <version>0.1</version>
-  <vendor url="https://subtheme.pro">Subtheme</vendor>
+  <vendor url="https://subtheme.pro">Thematic</vendor>
 
   <description>
     <![CDATA[
+      The Solarized theme, adapted for JetBrains. Both dark and light themes are included.
+      <br/><br/>
+      Contribute with GitHub: <a href="https://github.com/subtheme-pro/solarized">https://github.com/subtheme-pro/solarized</a>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-dark-small.png" border="0" width="320">
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-dark-small.png" border="0" width="320">
     ]]>
   </description>
 
