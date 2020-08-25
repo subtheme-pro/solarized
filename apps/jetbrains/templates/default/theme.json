@@ -133,7 +133,7 @@
       }
     },
     "DebuggerTabs": {
-      "underlinedTabBackground": "{{colors.base00}}"
+      "underlinedTabBackground": "{{colors.base02}}"
     },
     "DebuggerPopup": {
       "borderColor": "{{colors.base00}}"
