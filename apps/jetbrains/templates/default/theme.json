@@ -330,7 +330,7 @@
         "updateForeground": "{{colors.base01}}"
       },
       "SearchField": {
-        "background": "{{colors.base02}}",
+        "background": "{{colors.base03}}",
         "borderColor": "{{colors.base02}}"
       },
       "SectionHeader": {
@@ -503,15 +503,15 @@
       "foreground": "{{colors.base0}}",
       "inactiveForeground": "{{colors.base00}}",
       "selectionBackground": "{{colors.base00}}",
-      "selectionForeground": "{{colors.yellow}}"
+      "selectionForeground": "{{colors.base03}}"
     },
     "TextField": {
-      "background": "{{colors.base02}}",
+      "background": "{{colors.base03}}",
       "caretForeground": "{{colors.yellow}}",
       "foreground": "{{colors.base0}}",
       "inactiveForeground": "{{colors.base00}}",
       "selectionBackground": "{{colors.base00}}",
-      "selectionForeground": "{{colors.yellow}}"
+      "selectionForeground": "{{colors.base03}}"
     },
     "TextPane": {
       "background": "{{colors.base01}}",
@@ -519,7 +519,7 @@
       "foreground": "{{colors.base0}}",
       "inactiveForeground": "{{colors.base00}}",
       "selectionBackground": "{{colors.base00}}",
-      "selectionForeground": "{{colors.yellow}}"
+      "selectionForeground": "{{colors.base03}}"
     },
     "TitlePane": {
       "background": "{{colors.base02}}",

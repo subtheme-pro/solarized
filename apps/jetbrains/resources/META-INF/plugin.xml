@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>solarized</id>
-  <name>Solarized</name>
-  <version>0.1</version>
+  <name>Solarized Theme</name>
+  <version>0.2</version>
   <vendor url="https://subtheme.pro">Thematic</vendor>
 
   <description>
