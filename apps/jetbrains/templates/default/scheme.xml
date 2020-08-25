@@ -9,7 +9,7 @@
       <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="baeeba" />
+    <option name="ADDED_LINES_COLOR" value="{{colors.yellow}}" />
     <option name="ANNOTATIONS_COLOR" value="{{colors.base1}}" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="{{colors.base1}}" />
     <option name="CARET_COLOR" value="{{colors.base00}}" />
@@ -17,11 +17,11 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="{{colors.base03}}" />
     <option name="DOCUMENTATION_COLOR" value="{{colors.base02}}" />
     <option name="GUTTER_BACKGROUND" value="{{colors.base03}}" />
-    <option name="INDENT_GUIDE" value="{{colors.base02}}" />a
+    <option name="INDENT_GUIDE" value="{{colors.base02}}" />
     <option name="INFORMATION_HINT" value="{{colors.base02}}" />
     <option name="LINE_NUMBERS_COLOR" value="{{colors.base01}}" />
     <option name="METHOD_SEPARATORS_COLOR" value="{{colors.base02}}" />
-    <option name="MODIFIED_LINES_COLOR" value="bccff9" />
+    <option name="MODIFIED_LINES_COLOR" value="{{colors.yellow}}" />
     <option name="NOTIFICATION_BACKGROUND" value="{{colors.base02}}" />
     <option name="QUESTION_HINT" value="{{colors.base02}}" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
