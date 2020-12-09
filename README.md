@@ -3,8 +3,9 @@
 Supported apps:
 - [JetBrains](https://github.com/subtheme-pro/solarized/tree/master/apps/jetbrains)
 
-To build the, use [subtheme](https://github.com/subtheme-pro/subtheme):
+To build, use the `build.py` script:
 
 ```shell script
-$ python subtheme.py build <path>
+$ pip install -r requirements.txt
+$ python build.py
 ```

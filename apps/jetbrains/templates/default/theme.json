@@ -1,7 +1,7 @@
 {
   "name": "{{name}}",
   "dark": {{dark}},
-  "author": "Thematic",
+  "author": "Subtheme",
   "editorScheme": "/themes/{{filename}}.xml",
   "ui": {
     "*": {
@@ -313,6 +313,7 @@
     },
     "Plugins": {
       "background": "{{colors.base03}}",
+      "hoverBackground": "{{colors.base02}}",
       "disabledForeground": "{{colors.base00}}",
       "eapTagBackground": "{{colors.base02}}",
       "lightSelectionBackground": "{{colors.base02}}",
@@ -325,7 +326,7 @@
         "installFocusedBackground": "{{colors.base02}}",
         "installFillForeground": "{{colors.base01}}",
         "installFillBackground": "{{colors.base02}}",
-        "updateBackground": "{{colors.base01}}",
+        "updateBackground": "{{colors.base02}}",
         "updateBorderColor": "{{colors.base01}}",
         "updateForeground": "{{colors.base01}}"
       },
