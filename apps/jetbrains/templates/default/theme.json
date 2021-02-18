@@ -242,7 +242,7 @@
       "selectionForeground": "{{colors.base2}}"
     },
     "MenuBar": {
-      "borderColor": "{{colors.base03}}",
+      "borderColor": "{{colors.base02}}",
       "disabledBackground": "{{colors.base03}}",
       "disabledForeground": "{{colors.base00}}",
       "foreground": "{{colors.base0}}",
