@@ -1,31 +1,30 @@
 <idea-plugin>
   <id>solarized</id>
   <name>Solarized Theme</name>
-  <version>1.0</version>
   <vendor url="https://subtheme.pro">Subtheme</vendor>
-
-  <change-notes><![CDATA[
-      <h3>1.0</h3>
-      <ul>
-        <li>Fixed application border color in Linux</li>
-      </ul>
-    ]]>
-  </change-notes>
-  <description>
-    <![CDATA[
-      The Solarized theme, adapted for JetBrains by <a href="https://subtheme.pro">Subtheme</a>. Both dark and light themes are included.
-      <br/><br/>
-      Contribute with GitHub: <a href="https://github.com/subtheme-pro/solarized">https://github.com/subtheme-pro/solarized</a>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-light-small.png" border="0" width="360">
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-dark-small.png" border="0" width="360">
-    ]]>
-  </description>
-
-  <idea-version since-build="191.0"/>
+  <version>1.0</version>
 
   <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="191.0"/>
+
+  <change-notes><![CDATA[
+    <h3>1.0</h3>
+    <ul>
+      <li>Fixed application border color in Linux</li>
+    </ul>
+  ]]>
+  </change-notes>
+
+  <description><![CDATA[
+    The Solarized theme, adapted for JetBrains by <a href="https://subtheme.pro">Subtheme</a>. Both dark and light themes are included.
+    <br/><br/>
+    Contribute with GitHub: <a href="https://github.com/subtheme-pro/solarized">https://github.com/subtheme-pro/solarized</a>
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-light-small.png" border="0" width="360">
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/subtheme-pro/solarized/master/apps/jetbrains/screenshots/solarized-dark-small.png" border="0" width="360">
+  ]]>
+  </description>
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="d9304237-1a55-41ed-beb0-e86bd75439fa" path="/solarized-light.theme.json"/>
