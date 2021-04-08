@@ -293,8 +293,8 @@
       "foreground": "{{colors.base00}}"
     },
     "ParameterInfo": {
-      "background": "{{colors.base00}}",
-      "borderColor": "{{colors.base02}}",
+      "background": "{{colors.base02}}",
+      "borderColor": "{{colors.base01}}",
       "currentOverloadBackground": "{{colors.base00}}",
       "currentParameterForeground": "{{colors.yellow}}",
       "disabledForeground": "{{colors.base00}}",
